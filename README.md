@@ -1,2 +1,2 @@
 # wild_animal-detection-using-AI
-wild animal detection using YOLO-V8
+wild animal detection using YOLO-V8.
